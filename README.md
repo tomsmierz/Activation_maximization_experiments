@@ -6,3 +6,5 @@ Files:
 
 - MNIST.py is a python script containing learning algorithm and neural network architecture
 - model_MNIST.pt is a trained model
+- AM.py is a python script containing activation maximisation algoritm
+- relu x-0.01 is are pictures of results fo x digit using regularization factor lambda = 0.01
