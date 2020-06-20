@@ -5,4 +5,4 @@ Activation maximization is technique mainly used to generade adversary examples.
 Files:
 
 - MNIST.py is a python script containing learning algorithm and neural network architecture
-- model_MNIST.pt is trained model
+- model_MNIST.pt is a trained model
